@@ -1,6 +1,6 @@
-# Lab-42: Open-Techlab for Makers 🛠️  
+# Lab-42: Open-Techlab for Makers 🤖🛠️  
 
-Welcome to **Lab-42**, an open-source innovation hub where makers, developers, and visionaries bring their ideas to life. 
+Welcome to **Lab-42**, an open-source innovation hub where makers, developers, and visionaries bring their ideas to life through cutting-edge projects in **computer science** and **computer vision**. 
 
 ## 🚀 Our Mission  
 
@@ -15,6 +15,18 @@ Lab-42 aims to:
 - 🌍 **Open Collaboration**: Harness the power of a global, open-source community.  
 - 🔧 **Cross-Disciplinary Impact**: From healthcare to robotics, we tackle challenges across industries.  
 - ⚙️ **Project Innovation**: Each project addresses real-world challenges, from experimental prototypes to scalable solutions.
+
+## 🛠️ Projects Landscape
+
+```
+├── Autonomous Systems/
+├── Robotics/
+├── healthcare/
+├── agriculture & Precision Farming
+├── energy/
+├── Smart Cities & Urban Planning/
+└── energy/
+```
 
 ## 🤝 Contribute to Lab-42  
 
